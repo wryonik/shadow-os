@@ -1,4 +1,4 @@
-# arch-shadow
+# shadow-os
 A custom Linux distro made atop Arch Linux. It is optimised for HP Omen series gaming laptops.
 
 ### Features
